@@ -33,8 +33,8 @@
 
 ## 📊 GitHub Stats:
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=NimsaraPeiris&theme=dark&hide_border=false)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white)
+![](https://github-readme-streak-stats.herokuapp.com/?user=NimsaraPeiris&theme=dark&hide_border=false)   
+
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=NimsaraPeiris&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ### ✍️ Random Dev Quote
