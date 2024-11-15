@@ -1,4 +1,4 @@
-💫 About Me:<br><br>
+##💫 About Me:<br><br>
 🔭 I’m currently working on : An AI-Driven Crop Management App.<br><br>👯 I’m looking to collaborate on : AI projects in agriculture, health, or education.<br><br>🤝 I’m looking for help with : Improving AI models and scalable systems.<br><br>🌱 I’m currently learning : AI model deployment and Docker.<br><br>💬 Ask me about : Tech solutions for real-world problems.<br><br>⚡ Fun fact : I completed a 2.5-day bike trip through Sri Lanka’s mountains!
 
 
