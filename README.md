@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=12&duration=3000&pause=1000&color=53F9FF&background=B4F0FF00&width=435&lines=Hi;Im+Nimsara;Software+engineer+passionate+about+web%2C+mobile%2C+and+AI+development.)](https://git.io/typing-svg)
 <br>
-
+<p>
                                                                                    _____                     
             _____          ____       _____             _______    ______     _____\    \  ___________       
        _____\    \     ____\_  \__   |\    \            \      |  |      |   /    / |    | \          \      
@@ -13,7 +13,7 @@
 | |   ||    | |     | \_____\   | /    |      | |    ||     \ |     | /    | |    |____/|  |     | | |     | 
  \|___||____|/       \ |    |___|/     |______|/|____|/      \|_____|/      \|____|   | |  |_____|/ \|_____| 
                       \|____|                                                     |___|/                     
-<br>
+</p><br>
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/nimsarasphone4814) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/NimsaraPeiris) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/nimsara.peiriz) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/pasindu-peiris)
