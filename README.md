@@ -1,6 +1,19 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=12&duration=3000&pause=1000&color=53F9FF&background=B4F0FF00&width=435&lines=Hi;Im+Nimsara;Software+engineer+passionate+about+web%2C+mobile%2C+and+AI+development.)](https://git.io/typing-svg)
 <br>
-🔭 I’m currently working on : An AI-Driven Crop Management App.<br><br>👯 I’m looking to collaborate on : AI projects in agriculture, health, or education.<br><br>🤝 I’m looking for help with : Improving AI models and scalable systems.<br><br>🌱 I’m currently learning : AI model deployment and Docker.<br><br>💬 Ask me about : Tech solutions for real-world problems.<br><br>⚡ Fun fact : I completed a 2.5-day bike trip through Sri Lanka’s mountains!
+
+                                                                                   _____                     
+            _____          ____       _____             _______    ______     _____\    \  ___________       
+       _____\    \     ____\_  \__   |\    \            \      |  |      |   /    / |    | \          \      
+      /    / \    |   /     /     \   \\    \            |     /  /     /|  /    /  /___/|  \    /\    \     
+     |    |  /___/|  /     /\      |   \\    \           |\    \  \    |/  |    |__ |___|/   |   \_\    |    
+  ____\    \ |   || |     |  |     |    \|    | ______   \ \    \ |    |   |       \         |      ___/     
+ /    /\    \|___|/ |     |  |     |     |    |/      \   \|     \|    |   |     __/ __      |      \  ____  
+|    |/ \    \      |     | /     /|     /            |    |\         /|   |\    \  /  \    /     /\ \/    \ 
+|\____\ /____/|     |\     \_____/ |    /_____/\_____/|    | \_______/ |   | \____\/    |  /_____/ |\______| 
+| |   ||    | |     | \_____\   | /    |      | |    ||     \ |     | /    | |    |____/|  |     | | |     | 
+ \|___||____|/       \ |    |___|/     |______|/|____|/      \|_____|/      \|____|   | |  |_____|/ \|_____| 
+                      \|____|                                                     |___|/                     
+
 
 
 ## 🌐 Socials:
