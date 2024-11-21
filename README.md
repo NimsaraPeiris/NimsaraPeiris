@@ -1,4 +1,3 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=12&duration=3000&pause=1000&color=53F9FF&background=B4F0FF00&width=435&lines=Hi;Im+Nimsara;Software+engineer+passionate+about+web%2C+mobile%2C+and+AI+development.)](https://git.io/typing-svg)
 <br>
 
 <h2 align="center">Reach me out : nimsara.peiriss@gmail.com</h2>
@@ -25,3 +24,5 @@
 
 ### Others
 ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=flat&logo=WordPress&logoColor=white)  ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=flat&logo=powerbi&logoColor=black) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=flat&logo=jira&logoColor=white)
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=12&duration=3000&pause=1000&color=53F9FF&background=B4F0FF00&width=435&lines=Hi;Im+Nimsara;Software+engineer+passionate+about+web%2C+mobile%2C+and+AI+development.)](https://git.io/typing-svg)
